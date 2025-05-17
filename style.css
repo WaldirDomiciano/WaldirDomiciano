@@ -11,16 +11,16 @@ ul {
 li {
     display: inline;
     margin-right: 20px;
-    color: white;
+    color: rgb(154, 187, 202);
 }
 
 a {
-    color: white;
+    color: rgb(154, 187, 202);
     text-decoration: none;
 }
 
 #banner {
-    background: linear-gradient(to right, #33d6ff, #ff3333);
+    background: linear-gradient(to right, #33d6ff, #338bff);
     text-align: center;
     padding: 0px;
     color: white;
