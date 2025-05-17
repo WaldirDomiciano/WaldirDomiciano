@@ -1,5 +1,5 @@
 nav {
-    background-color: #33d6ff;
+    background-color: #62e42f;
     padding: 10px;
 }
 
@@ -11,16 +11,16 @@ ul {
 li {
     display: inline;
     margin-right: 20px;
-    color: rgb(154, 187, 202);
+    color: rgb(255, 255, 255);
 }
 
 a {
-    color: rgb(154, 187, 202);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
 #banner {
-    background: linear-gradient(to right, #33d6ff, #338bff);
+    background: linear-gradient(to right, #62e42f, #0d7509);
     text-align: center;
     padding: 0px;
     color: white;
