@@ -30,6 +30,10 @@ p {
     text-decoration: none;    
 }
 
+#corpo {
+        align-items: center;
+}
+
 #banner {
     background: linear-gradient(to right, #62e42f, #0d7509);
     text-align: center;
