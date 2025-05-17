@@ -15,7 +15,12 @@ li {
 }
 
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#link {
+    color: rgb(15, 6, 90);
     text-decoration: none;
 }
 
@@ -33,6 +38,7 @@ p {
 #corpo {
         padding: 0px 500px 0px 500px;
 }
+
 
 #banner {
     background: linear-gradient(to right, #62e42f, #0d7509);
