@@ -42,7 +42,7 @@ p {
 
 
 #banner {
-    background: linear-gradient(to right, rgb(0, 102, 51), #0d7509);
+    background: rgb(0, 102, 51);
     text-align: center;
     padding: 0px;
     color: white;
