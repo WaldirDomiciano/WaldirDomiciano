@@ -19,6 +19,18 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding-left: 50px;
+}
+
 #banner {
     background: linear-gradient(to right, #62e42f, #0d7509);
     text-align: center;
